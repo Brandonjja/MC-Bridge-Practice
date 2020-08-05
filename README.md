@@ -2,5 +2,5 @@
 
 A beta plugin used to practice bridging methods in Minecraft.
 
-/startbrdige
+/startbridge
 /stopbridge
