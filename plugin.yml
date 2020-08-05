@@ -1,0 +1,30 @@
+name: Bridge
+version: 1.0
+main: com.brandonjja.bridge.BridgeMain
+author: Brandonjja
+description: Bridging plugin.
+commands:
+    startbridge:
+        usage: /startbrdige
+        description: Starts bridge
+    stopbridge:
+        usage: /stopbridge
+        description: Stops bridge
+    mostblocks:
+        usage: /mostblocks
+        description: Displays most blocks bridged
+    replay:
+        usage: /replay
+        description: Replay system
+    bridge:
+        usage: /bridge <start/stop>
+        description: Starts bridge
+    start:
+        usage: /start bridge
+        description: Starts bridge
+    bridgestop:
+        usage: /bridgestop
+        description: Stops bridge
+    bridgestart:
+        usage: /bridgestart
+        description: Starts bridge
